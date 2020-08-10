@@ -37,4 +37,3 @@ lib
 *.orig
 react/package-lock.json
 store-theme/
-events-example/
